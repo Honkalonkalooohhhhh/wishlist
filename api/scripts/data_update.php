@@ -1,8 +1,8 @@
 <?php
   $servername = 'localhost';
-  $username 	= 'root';
-  $password 	= '';
-  $dbname 		= 'ka_babylist';
+  $username = 'root';
+  $password = '';
+  $dbname = 'ka_babylist';
 
   $feedback 	= array();
 
